@@ -12,4 +12,4 @@
   - Nikolas: *Pot-bellied Nik*: Putting smiles on people's faces
   - Johnny: answer
   - Jack: answer
-  - Jimmy: Iron Superman: "I'm sorry. This is the fun-vee. The hum-drum-vee is back there."
+  - Jimmy: *Iron Superman*: "I'm sorry. This is the fun-vee. The hum-drum-vee is back there."
